@@ -1,5 +1,5 @@
-PDF Document Processor with Embeddings Integration
-This project focuses on extracting and processing text from PDF documents, splitting the text into manageable chunks, and providing embeddings for further processing, such as natural language processing (NLP) tasks. It includes functionality for loading PDFs, splitting the extracted text, and integrating with embedding models for text representation.
+PDF Document Processor with Llama 3 Embeddings Integration
+
 
 Table of Contents
 Installation
