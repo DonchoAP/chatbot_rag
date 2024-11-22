@@ -2,7 +2,6 @@ import os
 import io
 from pdfminer.high_level import extract_text_to_fp
 
-#C:\\Users\\49174\\Desktop\\Presentation\\chatbot_rag\\data
 
 def load_documents_from_folder(folder_path):
     all_documents = []
@@ -25,7 +24,7 @@ def load_documents(pdf_path):
         print("Error loading documents from", pdf_path, ":", e)
         return []
 
-folder_path = "C:\\Users\\49174\\Desktop\\Presentation\\chatbot_rag\\data"
+folder_path = ""
 all_documents = load_documents_from_folder(folder_path)
 
 if all_documents:
