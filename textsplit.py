@@ -27,7 +27,7 @@ def split_documents(documents: list[Document]):
 
 
 # Specify the path to the PDF file
-pdf_path = "C:\\Users\\49174\\Desktop\\Presentation\\chatbot_rag\\data"
+pdf_path = ""
 
 # Load documents from the PDF file
 documents = load_documents(pdf_path)
