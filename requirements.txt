@@ -3,44 +3,6 @@ chromadb
 pypdf
 pytest
 
-
-
-Ich bin wirklich begeistert von der Aussicht, während der Praxisphase meines dualen Studiums mit dir im Team zu arbeiten und von deiner Erfahrung und Expertise zu lernen. Ich bringe bereits Erfahrung und Know-how in diesem Bereich mit, und ich bin sehr daran interessiert, meine Kenntnisse weiter auszubauen und in einem Arbeitsumfeld wie dem Ihren zu wachsen. Gibt es daher die Möglichkeit einer Zusammenarbeit, auch bevor das duale Studium beginnt?
-
-
-
-
-
-
-Hallo Inge,
-
-vielen Dank für Dein Interesse an meiner Mitarbeit bei Steadforce! Ich freue mich über die Gelegenheit, mein Profil mit euch zu teilen.
-
-Bezüglich des Gehalts möchte ich betonen, dass mein Gehaltsspektrum von den spezifischen Aufgaben und Verantwortlichkeiten abhängt. Mein Mindestgehalt beträgt 60000 und mein Wunschgehalt liegt bei 70000.
-
-Gerne stehe ich zur Verfügung, um weitere Einzelheiten zu besprechen und mögliche Optionen zu erkunden. Ich freue mich darauf, von Dir zu hören.
-
-Anbei findest Du meinen tabellarischen Lebenslauf auf Deutsch. Solltet ihr eine andere Version oder weitere Unterlagen benötigen, lasst es mich bitte wissen.
-
-Mit freundlichen Grüßen
-
-
-Hamburger Allee 14, 60486 Frankfurt am Main
-
-Sehr geehrtes Team von Dataforce GmbH,
-
-als erfahrener Data Engineer mit einer Leidenschaft für den direkten Kundenkontakt und der Fähigkeit, maßgeschneiderte Lösungen anzubieten, bewerbe ich mich mit großem Interesse auf die Position als Call-Center Agent für Datenerhebung im Großraum Heilbronn/Karlsruhe.
-
-Meine bisherige Erfahrung bei Telefónica hat mir gezeigt, wie wichtig es ist, Kundenbedürfnisse zu verstehen und effektiv darauf einzugehen. Dabei habe ich ein Sentiment-Analyse-Modell entwickelt und erfolgreich implementiert, welches den Net Promoter Score (NPS) um beeindruckende 31% steigerte.
-
-Mit meinem technischen Know-how und meiner ausgeprägten Kundenorientierung bin ich überzeugt davon, dass ich einen wesentlichen Beitrag zum Erfolg Ihres Teams bei Dataforce GmbH leisten kann. Meine Fähigkeit, Daten zu nutzen, um Geschäftserfolg zu fördern, gepaart mit meiner Leidenschaft für den Kundenkontakt, machen mich zu einem idealen Kandidaten für diese Position.
-
-Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in Ihrem Unternehmen einzubringen, und stehe Ihnen gerne für weitere Fragen zur Verfügung.
-
-Mit freundlichen Grüßen
-
--------------------
----------------
 Web Scraping Script Documentation
 
 Introduction:
@@ -99,6 +61,5 @@ Thanks to the Python community for creating and maintaining the Regular Expressi
 Disclaimer:
 
 This script is provided as-is, without any warranty or guarantee of its accuracy or suitability for any particular purpose. The author accepts no liability for any damages or losses incurred through the use of this script.---------------
---------------------------------------------
 
-Bewerbung für die Stelle als Softwareentwickler Sonar Data Fusion"
+

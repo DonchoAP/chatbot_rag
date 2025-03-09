@@ -2,6 +2,13 @@ import io
 from pdfminer.high_level import extract_text_to_fp
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
+import pandas as pd 
+
+#Could  QuTiP - Quantum Toolbox in Python // Cirq be used?
+
+
+#Use Singleton?
+
 
 def load_documents(pdf_path):
     try:
@@ -27,7 +34,7 @@ def split_documents(documents: list[Document]):
 
 
 # Specify the path to the PDF file
-pdf_path = "C:\\Users\\49174\\Desktop\\Presentation\\chatbot_rag\\data"
+pdf_path = "path"
 
 # Load documents from the PDF file
 documents = load_documents(pdf_path)
@@ -40,6 +47,6 @@ chunks = split_documents(documents)
 
 def load_documents():
     # Create a Document object with the provided page content
-    document = Document(page_content='Jo B. Das Joblexikon')
+    document = Document(page_content='document')
     # Return a list containing the Document object
     return [document] 
